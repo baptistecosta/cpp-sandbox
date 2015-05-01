@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://F:/sources/c++/core/containers/shared_object.cpp">
+      <sourceFolder url="file://F:/sources/c++/core/containers/shared_object.cpp" isTestSource="false" />
+    </content>
+    <content url="file://F:/sources/c++/core/math/math.cpp">
+      <sourceFolder url="file://F:/sources/c++/core/math/math.cpp" isTestSource="false" />
+    </content>
+    <content url="file://F:/sources/c++/core/math/matrix3.cpp">
+      <sourceFolder url="file://F:/sources/c++/core/math/matrix3.cpp" isTestSource="false" />
+    </content>
+    <content url="file://F:/sources/c++/core/math/matrix4.cpp">
+      <sourceFolder url="file://F:/sources/c++/core/math/matrix4.cpp" isTestSource="false" />
+    </content>
+    <content url="file://F:/sources/c++/core/math/quaternion.cpp">
+      <sourceFolder url="file://F:/sources/c++/core/math/quaternion.cpp" isTestSource="false" />
+    </content>
+    <content url="file://F:/sources/c++/core/math/vector.cpp">
+      <sourceFolder url="file://F:/sources/c++/core/math/vector.cpp" isTestSource="false" />
+    </content>
+    <content url="file://F:/sources/c++/core/string.cpp">
+      <sourceFolder url="file://F:/sources/c++/core/string.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
