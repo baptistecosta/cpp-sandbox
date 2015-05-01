@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://D:/c++/sources/core/_string.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/_string.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/bin.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/bin.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/container/hash_table.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/container/hash_table.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/event_listener.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/event_listener.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/event_publisher.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/event_publisher.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/filesys.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/filesys.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/framerate.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/framerate.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/keymap.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/keymap.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/log.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/log.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/math/math.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/math/math.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/math/matrix3.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/math/matrix3.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/math/matrix4.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/math/matrix4.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/math/quaternion.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/math/quaternion.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/math/vector.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/math/vector.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/parsers/json.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/parsers/json.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/string.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/string.cpp" isTestSource="false" />
+    </content>
+    <content url="file://D:/c++/sources/core/win32/time.cpp">
+      <sourceFolder url="file://D:/c++/sources/core/win32/time.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
     <content url="file://F:/sources/c++/core/containers/shared_object.cpp">
       <sourceFolder url="file://F:/sources/c++/core/containers/shared_object.cpp" isTestSource="false" />
     </content>

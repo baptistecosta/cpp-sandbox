@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include "core/math/vector.h"
+#include "core/container/auto_array.h"
+#include "core/container/auto_ptr.h"
 #include "core/container/shared_pointer.h"
 #include "core/string.h"
 
@@ -13,7 +15,13 @@ int main() {
 
     Vector3 arrow(1, 5, 3);
 
-    SharedPtr<int> ptr;
+    SharedPtr<String> ptr;
+
+    Vector<int> lotoResult();
+
+    AutoArray<int> bar();
+
+    AutoPtr<String> foo;
 
     printf(helloWorld.cStr());
 

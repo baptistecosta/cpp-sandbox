@@ -5,16 +5,18 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY build)
 
-set(SRCS_DIR F:/sources/c++)
+set(SRCS_DIR $ENV{CPP_BCOSTA})
 
 include_directories(${SRCS_DIR})
 
-file(GLOB_RECURSE CORE_MATH_SRCS ${SRCS_DIR}/core/math/*.cpp)
+file(GLOB_RECURSE CORE_SRCS ${SRCS_DIR}/core/*.cpp)
+file(GLOB_RECURSE CORE_HDRS ${SRCS_DIR}/core/*.h)
 
 add_library(
     core
     ${SRCS_DIR}/core/string.cpp
-    ${CORE_MATH_SRCS}
+    ${CORE_SRCS}
+    ${CORE_HDRS}
 )
 
 set(SOURCE_FILES main.cpp)
